@@ -17,7 +17,7 @@ A comprehensive inventory management system built with Rust, providing robust fe
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/rusty-store-inventory.git
+git clone https://github.com/denizomer1/rusty-store-inventory.git
 cd rusty-store-inventory
 ```
 
